@@ -1,1 +1,8 @@
+# AdMob
 google.com, pub-7341008021881630, DIRECT, f08c47fec0942fa0
+
+# Meta (Facebook Audience Network)
+facebook.com, 1583698086128518, RESELLER, c3e8d4466e3a0ad4
+
+# InMobi
+inmobi.com, 0bc31777baa04665ba720c62233def91, RESELLER, 83e748894982a392
